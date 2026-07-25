@@ -1,4 +1,5 @@
-# Churali CTF
+# Churali machine link
+https://drive.google.com/file/d/17cl9NQwFrxlzui3GBc29UMXYasQausu1/view?usp=drive_link
 
 > **"Once you enter Churali, there is no easy way back."**
 
